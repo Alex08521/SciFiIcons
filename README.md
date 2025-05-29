@@ -1,4 +1,4 @@
-# SciFi Icons
+# SciFiIcons
 Sours is an SVG icon theme for Linux. It is a descendant of [Beautyline](https://store.kde.org/p/1425426) and [Candy](https://github.com/EliverLara/candy-icons) icons, with [Sweet](https://github.com/EliverLara/Sweet-folders) and [Beauty Solar](https://store.kde.org/p/2037657)-inspired folders and substantial original artwork added to complete the theme, based on [Sours](https://store.kde.org/p/2214536)
 
 Features:
@@ -11,11 +11,11 @@ Features:
 - Uplit
 
 ## Installation
-- Extract SciFi_Icons.tar.gz to ~/.local/share/icons
+- Extract SciFiIcons.tar.gz to ~/.local/share/icons
 
 or
 
-- In System Settings -> Appearance -> Icons, use the 'Install from File...' dialog to find and select SciFi_Icons.tar.gz
+- In System Settings -> Appearance -> Icons, use the 'Install from File...' dialog to find and select SciFiIcons.tar.gz
 
 then
 
