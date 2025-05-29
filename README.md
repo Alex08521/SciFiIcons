@@ -10,8 +10,6 @@ Features:
 - Rounded lines
 - Uplit
 
-![Preview image for the Sours icon theme](preview/image-58.png)
-
 ## Installation
 - Extract SciFi_Icons.tar.gz to ~/.local/share/icons
 
